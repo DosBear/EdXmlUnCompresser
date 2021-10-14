@@ -1,0 +1,17 @@
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\obj\x86\Debug\WindowsFormsApplication1.EdXmlUncompresser.resources
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\obj\x86\Debug\EdXmlUncompresser.csproj.GenerateResource.Cache
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\bin\Debug\EdXmlUncompresser.exe
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\bin\Debug\EdXmlUncompresser.pdb
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\obj\x86\Debug\EdXmlUncompresser.exe
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\obj\x86\Debug\EdXmlUncompresser.pdb
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\bin\Debug\ICSharpCode.SharpZipLib.dll
+Y:\dev\csharp\EdXmlUncompresser\EdXmlUncompresser\obj\x86\Debug\EdXmlUncompresser.csprojResolveAssemblyReference.cache
+Y:\dev\csharp\EdXmlUnCompresser\obj\x86\Debug\EdXmlUncompresser.exe
+Y:\dev\csharp\EdXmlUnCompresser\obj\x86\Debug\EdXmlUncompresser.pdb
+Y:\dev\csharp\EdXmlUnCompresser\bin\Debug\EdXmlUncompresser.exe
+Y:\dev\csharp\EdXmlUnCompresser\bin\Debug\EdXmlUncompresser.pdb
+Y:\dev\csharp\EdXmlUnCompresser\obj\x86\Debug\EdXmlUncompresser.csprojResolveAssemblyReference.cache
+Y:\dev\csharp\EdXmlUnCompresser\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+Y:\dev\csharp\EdXmlUnCompresser\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Y:\dev\csharp\EdXmlUnCompresser\obj\x86\Debug\EdXmlUncompresser.csproj.GenerateResource.Cache
